@@ -22,3 +22,5 @@
 11: https://leetcode.com/problems/single-number/
 
 12: https://leetcode.com/problems/linked-list-cycle/
+
+13: https://leetcode.com/problems/min-stack/
