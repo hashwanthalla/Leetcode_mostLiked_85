@@ -1,0 +1,23 @@
+class Solution {
+    public int searchInsert(int[] a, int target) {
+     int l=0;int e =a.length-1;
+        while(l<e)
+        {
+            int mid= (l+e)/2;
+            if(target<=a[mid])
+            {
+                e=mid;
+            }
+            else
+            {
+                l=mid+1;
+            }
+        }
+        if(target>a[a.length-1])
+        {
+            e=e+1;
+        }
+        
+        return e;
+    }
+}
