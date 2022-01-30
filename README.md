@@ -14,3 +14,5 @@
 7: https://leetcode.com/problems/binary-tree-inorder-traversal/
 
 8: https://leetcode.com/problems/symmetric-tree/
+
+9: https://leetcode.com/problems/maximum-depth-of-binary-tree/
