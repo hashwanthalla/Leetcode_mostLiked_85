@@ -24,3 +24,5 @@
 12: https://leetcode.com/problems/linked-list-cycle/
 
 13: https://leetcode.com/problems/min-stack/
+
+14: https://leetcode.com/problems/intersection-of-two-linked-lists/
