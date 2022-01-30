@@ -8,3 +8,5 @@
 4: https://leetcode.com/problems/search-insert-position/
 
 5: https://leetcode.com/problems/maximum-subarray/
+
+6: https://leetcode.com/problems/climbing-stairs/
