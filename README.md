@@ -16,3 +16,5 @@
 8: https://leetcode.com/problems/symmetric-tree/
 
 9: https://leetcode.com/problems/maximum-depth-of-binary-tree/
+
+10: https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
