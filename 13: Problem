@@ -1,0 +1,57 @@
+class MinStack {
+
+    int capacity = 20;
+    int top = 0;
+    int [] min;
+    int [] a;
+    public MinStack() {
+        a=new int[capacity];
+        min = new int[capacity];
+    }
+    
+    public void push(int val) {
+        
+        a[top]=val;
+        if(top==0)
+        {
+            min[top]=val;
+        }
+        else
+        {
+        min[top] = Math.min(val,min[top-1]);
+        }
+        top++;
+            
+        if(top==capacity)
+        {
+            int curCapacity = a.length;
+            a = Arrays.copyOf(a, curCapacity + capacity);
+            min = Arrays.copyOf(min, curCapacity + capacity);
+            
+            capacity = capacity+capacity;
+        }
+    }
+    
+    public void pop() {
+        top--;
+        //a[top];   
+    
+    }
+    
+    public int top() {
+        return a[top-1];
+    }
+    
+    public int getMin() {
+      return min[top-1];  
+    }
+}
+
+/**
+ * Your MinStack object will be instantiated and called as such:
+ * MinStack obj = new MinStack();
+ * obj.push(val);
+ * obj.pop();
+ * int param_3 = obj.top();
+ * int param_4 = obj.getMin();
+ */
