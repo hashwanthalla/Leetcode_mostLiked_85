@@ -20,3 +20,5 @@
 10: https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
 
 11: https://leetcode.com/problems/single-number/
+
+12: https://leetcode.com/problems/linked-list-cycle/
