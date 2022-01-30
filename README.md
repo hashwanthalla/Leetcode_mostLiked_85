@@ -10,3 +10,5 @@
 5: https://leetcode.com/problems/maximum-subarray/
 
 6: https://leetcode.com/problems/climbing-stairs/
+
+7: https://leetcode.com/problems/binary-tree-inorder-traversal/
