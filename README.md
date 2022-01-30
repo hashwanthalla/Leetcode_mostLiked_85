@@ -12,3 +12,5 @@
 6: https://leetcode.com/problems/climbing-stairs/
 
 7: https://leetcode.com/problems/binary-tree-inorder-traversal/
+
+8: https://leetcode.com/problems/symmetric-tree/
