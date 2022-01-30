@@ -18,3 +18,5 @@
 9: https://leetcode.com/problems/maximum-depth-of-binary-tree/
 
 10: https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
+
+11: https://leetcode.com/problems/single-number/
