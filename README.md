@@ -36,3 +36,5 @@
 18: https://leetcode.com/problems/move-zeroes/
 
 19: https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/ 
+
+20: https://leetcode.com/problems/diameter-of-binary-tree/
