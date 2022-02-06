@@ -32,3 +32,5 @@
 16: https://leetcode.com/problems/invert-binary-tree/
 
 17: https://leetcode.com/problems/palindrome-linked-list/
+
+18: https://leetcode.com/problems/move-zeroes/
