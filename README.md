@@ -38,3 +38,5 @@
 19: https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/ 
 
 20: https://leetcode.com/problems/diameter-of-binary-tree/
+
+21: https://leetcode.com/problems/merge-two-binary-trees/
