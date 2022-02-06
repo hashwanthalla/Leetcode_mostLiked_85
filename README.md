@@ -34,3 +34,5 @@
 17: https://leetcode.com/problems/palindrome-linked-list/
 
 18: https://leetcode.com/problems/move-zeroes/
+
+19: https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/ 
